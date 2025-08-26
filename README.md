@@ -1,12 +1,41 @@
-# React + Vite
+# Velocity
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The **Velocity** interactive helps students explore the concept of velocity as a rate of change. By adjusting distance and time values, students can see how velocity is calculated and represented.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Interactive
 
-## Expanding the ESLint configuration
+Try it out here:  
+👉 [https://content-interactives.github.io/velocity](https://content-interactives.github.io/velocity)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🌐 Where This Interactive Is Being Used
+
+This interactive is currently featured in the following locations:
+
+- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5d12571f-8e12-4441-98ab-c0bc94069a96" /> **CK-12 Intent Response**  
+  - 👉 PRODUCTION: PENDING  
+  - 👉 MASTER: PENDING  
+- 📘 **CK-12 Flexbooks**
+  - 👉 PENDING
+
+---
+
+## 📚 Standards & Subjects
+
+This interactive aligns with the following topics and standards:
+
+- **📂 Subject Area**: High School Math  
+- **🧮 Topic**: Rate of Change / Velocity  
+- **📏 Common Core**:  
+  - HSF-IF.B.6 – Calculate and interpret the average rate of change of a function over a specified interval.  
+  - HSA-CED.A.2 – Create equations in two or more variables to represent relationships between quantities.
+
+---
+
+## 🛠️ Developer Notes
+
+- Built with: React, HTML, CSS, JavaScript  
+- Deployed via GitHub Pages
